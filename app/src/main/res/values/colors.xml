@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">#8D41D9</color>
+    <color name="secondary">#F0F0F2</color>
+    <color name="accent">#A16AD9</color>
+    <color name="success">#30BF7C</color>
+    <color name="inactivo">#E8E0E9</color>
+    <color name="danger">#CA1218</color>
+    <color name="warning">#EFD21A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Por si me la qioere hacer de emocion-->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#FF03DADA</color>
+    <color name="teal_700">#FF018787</color>
 </resources>
