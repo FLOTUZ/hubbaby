@@ -3,7 +3,7 @@ package com.example.hubbaby.models
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
-data class Usuario(
+data class UsuarioItem(
     @SerializedName("idUser")
     val idUser: Int,
     @SerializedName("userName")
@@ -11,9 +11,5 @@ data class Usuario(
     @SerializedName("email")
     val email: String,
     @SerializedName("password")
-    val password: String,
-    @SerializedName("create_time")
-    val createTime: String,
-    @SerializedName("idPersona")
-    val idPersona: Int
+    val password: String
 ) : Serializable
